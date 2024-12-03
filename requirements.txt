@@ -1,0 +1,7 @@
+python_dotenv
+openai == 0.28
+aiogram
+asyncio
+sys
+os
+logging
